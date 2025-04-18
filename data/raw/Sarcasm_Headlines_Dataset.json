@@ -1,0 +1,12 @@
+[
+  {
+    "article_link": "https://www.some-news-site.com/article1",
+    "headline": "thirtysomething scientists unveil doomsday clock of hair loss",
+    "is_sarcastic": 1
+  },
+  {
+    "article_link": "https://www.some-news-site.com/article2",
+    "headline": "dem rep. totally nails why congress is falling short on gender, racial equality",
+    "is_sarcastic": 0
+  }
+]

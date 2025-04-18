@@ -1,0 +1,7 @@
+Django
+scikit-learn
+nltk
+joblib
+matplotlib
+seaborn
+pandas
